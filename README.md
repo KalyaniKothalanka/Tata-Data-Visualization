@@ -9,16 +9,13 @@ The objective of this virtual internship project was to demonstrate data analysi
 ## 💼 Tasks Covered
 
 - **Data Cleaning**: Processed and refined raw CSV data to prepare it for analysis.
-- **Exploratory Data Analysis (EDA)**: Analyzed key metrics and trends using Python and visualization libraries.
 - **Dashboard Creation**: Built a dashboard using Power BI to present business insights.
 - **Business Recommendations**: Developed actionable insights based on data-driven observations.
 
 ## 🛠️ Tools Used
 
-- Python (Pandas, Matplotlib, Seaborn)
 - Microsoft Excel / Google Sheets
-- Tableau / Power BI (based on chosen platform)
-- Jupyter Notebook
+- Power BI 
 
 ## 📈 Key Outcomes
 
